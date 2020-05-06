@@ -1,7 +1,9 @@
 # Instalation
-1. docker compose up
-2. composer install
-3. php artisan migrate
+```
+ docker compose up
+ composer install
+ php artisan migrate
+```
 
-# Пощупать руками
+## Demo
   https://link-bit.herokuapp.com/
